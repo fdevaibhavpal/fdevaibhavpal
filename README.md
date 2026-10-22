@@ -1,6 +1,5 @@
 # Hi 👋, I'm Vaibhav
 
-# Full Stack Developer | AI Engineer
 
 <p align="center">
   <img src="./gitprofile.png" width="100%">
@@ -12,7 +11,7 @@
   <strong>React • Next.js • Node.js • Python • AI • Cloud • Automation</strong>
 </p>
 
-I am a **Full Stack Developer** focused on building scalable, performant, and production-ready applications.
+A **Full Stack Developer** focused on building scalable, performant, and production-ready applications.
 
 My primary strength is building modern frontend experiences with **React, Next.js, and TypeScript**, while also working across backend systems, databases, cloud infrastructure, AI applications, and automation.
 
