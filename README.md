@@ -132,8 +132,6 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 
 <div align="center">
 
-### AI × Engineering
-
 > **I don't use AI just to write code.**
 >
 > I use it to **understand systems, accelerate development, modernize codebases, solve problems, and ship production software.**
