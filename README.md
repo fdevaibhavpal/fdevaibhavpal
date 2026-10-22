@@ -224,7 +224,9 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 <img src="https://img.shields.io/badge/Production%20Investigation-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
 </p>
 
-### Development Acceleration
+---
+
+<h2 align="center">Development Acceleration</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Plan-2563EB?style=for-the-badge&logoColor=white"/>
