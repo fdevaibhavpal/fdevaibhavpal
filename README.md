@@ -167,11 +167,10 @@ I use AI as an **engineering multiplier** across the software development lifecy
 
 <p>
 <img src="https://img.shields.io/badge/Legacy%20to%20Modern-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/JavaScript%20to%20TypeScript-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/JavaScript%20to%20Python-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
+<img src="https://img.shields.io/badge/PHP%20to%20Java-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/React%20to%20Next.js-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/React%20to%20Vue.js-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/React%20to%20Nuxt3-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/Framework%20Migration-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/Component%20Migration-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/API%20Migration-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
