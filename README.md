@@ -44,6 +44,8 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
 </p>
 
+**Focus:** Modular & Scalable Architecture · Reusable Components · Custom Hooks · State Management · Design Systems · API Integration · Responsive UI · Web Accessibility · Web Vitals · Rendering Optimization · Code Splitting · Lazy Loading · Bundle Optimization · SSR · SSG · ISR · PWA Development · SEO · Testing · Error Handling · Refactoring · Maintainability
+
 ---
 
 ## Backend
@@ -122,29 +124,32 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logoColor=white"/>
 </p>
 
-**Core:** n8n Workflows · Custom Automation · Hubspots Workflow and Third-party Integrations · API Automation · Scheduled Jobs · Background Workers · Webhooks · Event-driven Workflows
+**Core:** n8n Workflows · Hubspots Workflow and Third-party Integrations · API Automation · Scheduled Jobs · Background Workers · Webhooks · Event-driven Workflows
 
 ---
 
-## AI-Powered Development
+<h2 align="center"> AI-Powered Development & Tools</h2>
 
-I use AI as an **engineering multiplier** across the software development lifecycle — not just for generating code.
+<div align="center">
 
-<p>
+### AI × Engineering
+
+> **I don't use AI just to write code.**
+>
+> I use it to **understand systems, accelerate development, modernize codebases, solve problems, and ship production software.**
+
+</div>
+
+--- 
+
+<p align="center">
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-## Tools
-
-<p>
+<img src="https://img.shields.io/badge/Antigravity-FFF3B0?style=for-the-badge&labelColor=FFF3B0&color=FFF3B0&logoColor=1F2937"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -217,10 +222,8 @@ I use AI as an **engineering multiplier** across the software development lifecy
 <img src="https://img.shields.io/badge/Build%20Failure%20Diagnosis-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
 <img src="https://img.shields.io/badge/Dependency%20Conflicts-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
 <img src="https://img.shields.io/badge/Performance%20Debugging-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Memory%20Analysis-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
 <img src="https://img.shields.io/badge/API%20Debugging-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
 <img src="https://img.shields.io/badge/Production%20Investigation-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Automated%20Fixes-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
 </p>
 
 ### Development Acceleration
