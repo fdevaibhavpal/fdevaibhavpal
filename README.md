@@ -97,8 +97,6 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-**Core:** AWS · Azure · Linux · Nginx 
-
 ---
 
 ## DevOps & CI/CD
@@ -121,7 +119,6 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Custom_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logoColor=white"/>
 </p>
 
