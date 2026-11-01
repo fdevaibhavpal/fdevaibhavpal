@@ -44,8 +44,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
 </p>
 
-**Focus:** Modular & Scalable Architecture · Reusable Components · Custom Hooks · State Management · Design Systems · API Integration · Responsive UI · Web Accessibility · Web Vitals · Rendering Optimization · Code Splitting · Lazy Loading · Bundle Optimization · SSR · SSG · ISR · PWA Development · SEO · Testing · Error Handling · Refactoring · Maintainability
-
 ---
 
 ## Backend
@@ -63,8 +61,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-**Core:** REST APIs · Authentication · Microservices · Background Jobs · Database Design · Indexing · Query Optimization · Caching
-
 ---
 
 ## AI & LLM Engineering
@@ -81,10 +77,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
 </p>
-
-**Core:**
-
-LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Search · Hybrid Search · Reranking · Vector Search · Knowledge Bases · Document Intelligence · AI Agents · Prompt Engineering · Open-source Models · Multi Model Deployment · AI Pipelines
 
 ---
 
@@ -112,8 +104,6 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
 
-**Core:** Git · GitHub · CI/CD · GitHub Actions · Docker · Prometheus · Grafana · Sentry
-
 ---
 
 ## Automation & Workflows
@@ -123,8 +113,6 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 <img src="https://img.shields.io/badge/Custom_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logoColor=white"/>
 </p>
-
-**Core:** n8n Workflows · Hubspots Workflow and Third-party Integrations · API Automation · Scheduled Jobs · Background Workers · Webhooks · Event-driven Workflows
 
 ---
 
@@ -194,7 +182,7 @@ LLM Applications · RAG · Chunking · Retrieval · Embeddings · Semantic Searc
 </p>
 
 
-<h2>Vibe Coding → Production</h2>
+<h2>Vibe Coding to Production</h2>
 
 <p>
 <img src="https://img.shields.io/badge/Website%20Prototyping-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
