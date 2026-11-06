@@ -150,11 +150,8 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 
 <p>
 <img src="https://img.shields.io/badge/Website%20Prototyping-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
-<img src="https://img.shields.io/badge/SaaS%20Prototyping-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
-<img src="https://img.shields.io/badge/Internal%20Tools-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/AI%20Applications-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/MVP%20Development-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
-<img src="https://img.shields.io/badge/Production%20Ready%20Code-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/Scalable%20Architecture-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/Security-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/Testing-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
