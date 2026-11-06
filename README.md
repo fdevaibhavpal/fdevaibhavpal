@@ -207,8 +207,8 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <a href="mailto:fdevaibhavpal@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://fdevaibhavpal.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-FFB800?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </p>
