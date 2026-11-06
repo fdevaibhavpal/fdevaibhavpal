@@ -88,7 +88,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
 ---
@@ -110,8 +109,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Custom_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -144,27 +141,8 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 
 <p>
 <img src="https://img.shields.io/badge/Legacy%20to%20Modern-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/JavaScript%20to%20Python-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/PHP%20to%20Java-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/React%20to%20Next.js-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/React%20to%20Vue.js-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/Framework%20Migration-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
 <img src="https://img.shields.io/badge/Component%20Migration-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-<img src="https://img.shields.io/badge/API%20Migration-E9DDFB?style=for-the-badge&labelColor=E9DDFB&color=E9DDFB"/>
-</p>
-
-
-<h2>AI-Assisted Development</h2>
-
-<p>
-<img src="https://img.shields.io/badge/Feature%20Development-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/Production%20Components-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/API%20Development-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/SaaS%20Development-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/Test%20Generation-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/Documentation-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/Refactoring-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
-<img src="https://img.shields.io/badge/Architecture%20Improvement-DDF5E7?style=for-the-badge&labelColor=DDF5E7&color=DDF5E7"/>
 </p>
 
 
