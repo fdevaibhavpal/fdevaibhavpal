@@ -140,20 +140,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 
 ---
 
-<h2>Codebase Intelligence</h2>
-
-<p>
-<img src="https://img.shields.io/badge/Codebase%20Mapping-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Architecture%20Discovery-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Legacy%20Code%20Analysis-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Dependency%20Analysis-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Module%20Analysis-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Application%20Flow%20Tracing-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Technical%20Documentation-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-<img src="https://img.shields.io/badge/Technical%20Debt%20Analysis-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF&logoColor=1E3A5F"/>
-</p>
-
-
 <h2>Codebase Migration</h2>
 
 <p>
@@ -198,19 +184,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Production%20Deployment-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 </p>
 
-
-<h2>AI-Assisted Debugging</h2>
-
-<p>
-<img src="https://img.shields.io/badge/Frontend%20Debugging-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Backend%20Debugging-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Runtime%20Analysis-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Build%20Failure%20Diagnosis-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Dependency%20Conflicts-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Performance%20Debugging-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/API%20Debugging-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-<img src="https://img.shields.io/badge/Production%20Investigation-DDF3F7?style=for-the-badge&labelColor=DDF3F7&color=DDF3F7"/>
-</p>
 
 ---
 
