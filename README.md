@@ -16,7 +16,7 @@
   <strong>React • Next.js • Node.js • Python • AI • Cloud • Automation</strong>
 </p>
 
-A ** Frontend-Heavy Software Developer** focused on building scalable, performant, and production-ready applications.
+A **Frontend-Heavy Software Developer** focused on building scalable, performant, and production-ready applications.
 
 My primary strength is building modern frontend experiences with **React, Next.js, and TypeScript**, while also working across backend systems, databases, cloud infrastructure, AI applications, and automation.
 
