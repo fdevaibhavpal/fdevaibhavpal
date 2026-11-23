@@ -6,9 +6,9 @@
     </a>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/gitprofile.png" width="100%">
-</p>
+</p> -->
 
 ---
 
@@ -61,7 +61,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
@@ -98,7 +97,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
@@ -157,22 +155,6 @@ I leverage **AI-powered development tools** to accelerate the entire software de
 <img src="https://img.shields.io/badge/Testing-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/Performance%20Optimization-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
 <img src="https://img.shields.io/badge/Production%20Deployment-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color=FFF0D9"/>
-</p>
-
-
----
-
-<h2 align="center">Development Acceleration</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Plan-2563EB?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Understand-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Build-059669?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Test-EA580C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Debug-DC2626?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Refactor-DB2777?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Review-0284C7?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deploy-16A34A?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
